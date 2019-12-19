@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+}
+.img1 {
+	width: 400px;
+	float: right;
+}
+.div1 {
+	width: 80%;
+	margin: 50px 10% 0 10%; 
+}
+.button1 { 
+	background-color: black;
+	color: white;
+	font-size: 24px;
+	margin-top: 10%;
+}
+.h1-1 {
+	margin-top: 5%;	
+}
+.div2 {
+	width: 80%;
+	margin-top: 50% 10% 0 10%;
+
+}
+.minibox {
+	width: 15%;
+	height: 5%;
+	display: inline-block;
+	margin-top: 20%;
+	background-color: yellow;
+}
+.img {
+	width: 100px;
+
+}
